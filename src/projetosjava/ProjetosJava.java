@@ -11,8 +11,9 @@ package projetosjava;
  */
 public class ProjetosJava {
     public static void main(String[] args) {
-        System.out.print("Olá, Mundo!");
-        System.err.close();
+        System.out.print("eh mole");
+        System.out.println("");
+        System.out.println("kkkkkkkkkkk");
     }
     
 }
